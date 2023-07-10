@@ -24,8 +24,8 @@ Daily practice of what I've learned so far whiles taking the Web Development Boo
 
 ### Links
 
-- Solution URL: (https://your-solution-url.com)
-- Live Site URL: (https://your-live-site-url.com)
+- Solution URL: (https://github.com/kbthe2/qrcodechallenge)
+- Live Site URL: (https://kbthe2.github.io/qrcodechallenge/)
 
 ## My process
 
@@ -37,7 +37,7 @@ Daily practice of what I've learned so far whiles taking the Web Development Boo
 
 ### What I learned
 
-Nothing new. I am still perfecting my flexbox skills
+Nothing new. I am still perfecting my Flexbox skills
 
 ## Author
 
